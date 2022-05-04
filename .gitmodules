@@ -1,0 +1,9 @@
+[submodule "suba"]
+	path = suba
+	url = ../suba.git
+[submodule "subb"]
+	path = subb
+	url = ../subb.git
+[submodule "subc"]
+	path = subc
+	url = ../subc.git
